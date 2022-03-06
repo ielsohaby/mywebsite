@@ -28,7 +28,7 @@ tags:
 title: Evaluation of Digital and Optical Refractometers for Assessing Failure of Transfer of Passive Immunity in Dairy Calves
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: ""
-url_pdf: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4895506%2Fpdf%2FJVIM-29-721.pdf&clen=356465&chunk=true
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/jvim.12560
 # url_poster: ""
 # url_project: ""
 # url_slides: ""

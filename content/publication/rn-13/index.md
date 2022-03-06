@@ -8,7 +8,7 @@ authors:
 - Adel Elghafghuf
 - admin
 - Mohammed Nasr
-date: "2022-02-28T00:00:00Z"
+date: "2017-04-04T00:00:00Z"
 doi: "https://doi.org/10.1016/j.theriogenology.2017.04.005"
 featured: true
 image:
