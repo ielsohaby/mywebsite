@@ -60,7 +60,7 @@ social:
   label: Follow me on Twitter
   link: https://twitter.com/Ielsohaby
 superuser: true
-title: ""
+title: "Ibrahim Elsohaby"
 ---
 
 Ibrahim Elsohaby is an Assistant Professor of Public Health and Epidemiology at the Department of Infectious Diseases and Public Health, City University of Hong Kong. My current research investigates the One Health epidemiology of infectious and zoonotic diseases, including antimicrobial resistance. The aim of this research is to use epidemiologic and quantitative methods to develop realistic antimicrobial stewardship strategies based on a One Health approach and to reduce the risk of zoonotic diseases transmission to human contacts and general public.
