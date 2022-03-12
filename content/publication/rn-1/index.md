@@ -25,9 +25,9 @@ publishDate: "2014-09-20T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
-title: Measurement of serum immunoglobulin G in dairy cattle using Fourier-transform infrared spectroscopy - A reagent free approach
+# tags:
+# - Source Themes
+title: "Measurement of serum immunoglobulin G in dairy cattle using Fourier-transform infrared spectroscopy: A reagent free approach"
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: ""
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1090023314003839?via%3Dihub
@@ -38,12 +38,3 @@ url_source: "https://www.sciencedirect.com/science/article/abs/pii/S109002331400
 # url_video: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

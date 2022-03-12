@@ -25,8 +25,8 @@ publishDate: "2018-10-01T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 title: Transmission infrared spectroscopy for rapid quantification of fat, protein, and lactose concentrations in human milk
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: ""
@@ -37,13 +37,3 @@ url_pdf: https://www.nature.com/articles/s41372-018-0233-5.pdf
 url_source: "https://www.nature.com/articles/s41372-018-0233-5#Abs1"
 # url_video: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

@@ -25,8 +25,8 @@ publishDate: "2019-04-01T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 title: Effect of passive transfer of immunity on growth performance of preweaned dairy calves
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: ""
@@ -37,13 +37,3 @@ url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6450162/
 url_source: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6450162/"
 # url_video: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

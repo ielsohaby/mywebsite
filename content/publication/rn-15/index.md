@@ -27,8 +27,8 @@ publishDate: "2018-01-29T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 title: Application of transmission infrared spectroscopy and partial least squares regression to predict immunoglobulin G concentration in dairy and beef cow colostrum
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: ""
@@ -39,13 +39,3 @@ url_pdf: https://academic.oup.com/jas/article-abstract/96/2/771/4828082?redirect
 url_source: "https://academic.oup.com/jas/article-abstract/96/2/771/4828082?redirectedFrom=fulltext&login=false"
 # url_video: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

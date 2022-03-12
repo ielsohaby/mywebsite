@@ -33,8 +33,8 @@ publishDate: "2020-07-15T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 title: Assessment of Brix refractometry to estimate immunoglobulin G concentration in beef cow colostrum
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: ""
@@ -45,13 +45,3 @@ url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/jvim.15805
 url_source: "https://onlinelibrary.wiley.com/doi/full/10.1111/jvim.15805"
 # url_video: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

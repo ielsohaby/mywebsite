@@ -26,8 +26,8 @@ publishDate: "2018-09-05T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 title: Molecular identification of avian influenza virus subtypes H5N1 and H9N2 in birds from farms and live bird markets and in respiratory patients
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: ""
@@ -38,13 +38,3 @@ url_pdf: https://peerj.com/articles/5473/
 url_source: "https://peerj.com/articles/5473/"
 # url_video: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
