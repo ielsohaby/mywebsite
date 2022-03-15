@@ -1,31 +1,41 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2020-06-01T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
+# slides: example
+summary: ""
 tags:
-- Deep Learning
-title: Internal Project
+- Animal Health
+title: "Improving Horse Welfare on PEI Farms through Development of an On-Farm Assessment Tool and a Better Understanding of Horse Owners Attitudes Toward Welfare"	
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Managing horses requires an understanding of their behavioral and physical needs. The PEI horse population consists of around 4,000 horses on 720 properties. Horse owners have a varied level of knowledge, education, experience and understanding of horses’ needs, which affects their choice of husbandry and management practices. This may lead to horses’ needs not being taken into full consideration, thereby compromising their welfare. Therefore, it is important to use horse welfare assessment to monitor welfare, provide feedback from such assessments and work towards improving welfare wherever possible.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+The PEI Department of Agriculture and Land (PEIDAL) has dedicated decades of support and effort toward improving animal welfare in the island under the Animal Health Act. The Department, under the Assurance Systems Program is currently providing support for improving horse welfare in Prince Edward Island farms through assessment and benchmarking.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+PEIDAL has made a connection with the University of Prince Edward Island’s Atlantic Veterinary Collage (AVC). This research will contribute to improvement of horse welfare on the island through development of on-farm assessment tool and a better understanding of horse owners’ attitudes, perceptions and behaviors, which is crucial when aiming to optimize the on-farm assessment tool and educational efforts in general. This project would be divided into two parts:
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+**Part 1:** Improving Horse Welfare on Prince Edward Island Farms Through Assessment and Benchmarking
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+"The Animal Health & Research Section working with AVC researchers toward the following objectives:" 
+1)	To develop a protocol to assess horse welfare on Prince Edward Island farms under field conditions that can be used by veterinarians, inspectors and horse owners.
+2)	To benchmark the horse welfare assessment on Prince Edward Island farms. 
+3)	To investigate how benchmarking improves horse welfare on PEI farms.
+
+**Part 2:** Improving Horse Welfare on PEI Farms Through a Better Understanding of Horse Owners’ Attitudes Toward Welfare and an On-Farm Assessment Tool
+The Animal Health & Research Section working with AVC researchers toward the following objectives: 
+1)	What are the motivators and barriers of horse owners to improve horse welfare?
+2)	What are the external influences on horse owners’ attitudes toward horse welfare?
+3)	How do horse owners evaluate the assessment tool and benchmarking report developed for Part A of this project?
+The research and reporting will primarily be completed by the University of Prince Edward Island with the PEIDAL’s Animal Health & Research Section providing staff time and resources to collect and analyze data related to horse owner’s knowledge, attitude and practices related to horse welfare.
