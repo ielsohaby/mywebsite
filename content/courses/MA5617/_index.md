@@ -2,7 +2,7 @@
 date: "2022-09-01"
 linkTitle: "Overview"
 summary: An example of using Wowchemy's Book layout for publishing online courses.
-title: "MA 5617: Statistical Data Analysis"
+title: "\U0001F4CA MA 5617: Statistical Data Analysis"
 type: book
 ---
 
