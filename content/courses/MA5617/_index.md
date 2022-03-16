@@ -1,7 +1,7 @@
 ---
-date: "2022-09-01"
+date: "2022-03-15"
 linkTitle: "Overview"
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: Master of Science in Public Health and Epidemiology.
 title: "\U0001F4CA MA 5617: Statistical Data Analysis"
 type: book
 ---
