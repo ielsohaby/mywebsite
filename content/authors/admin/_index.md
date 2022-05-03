@@ -24,7 +24,7 @@ interests:
 - Diagnostic Evaluation
 organizations:
 - name: City University of Hong Kong
-  url: https://www.cityu.edu.hk/
+  url: https://www.cityu.edu.hk/ph/staff/dr-ibrahim-elsohaby
 role: Assistant Professor of Public Health and Epidemiology 
 social:
 - icon: envelope

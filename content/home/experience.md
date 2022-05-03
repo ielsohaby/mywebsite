@@ -24,10 +24,10 @@ date_format: Jan 2006
 experience:
   - title: Assistant Professor  
     company: Department of Infectious Diseases and Public Health, City University of Hong Kong
-    company_url: 'https://www.cityu.edu.hk/ph/'
+    company_url: 'https://www.cityu.edu.hk/ph/staff/dr-ibrahim-elsohaby'
     company_logo: 
     location: Hong Kong
-    date_start: '2022-02-21'
+    date_start: '2022-01-21'
     date_end: ''
     # description: |2-
     #     Responsibilities include:
@@ -38,7 +38,7 @@ experience:
         
   - title: Veterinary Epidemiologist
     company: Animal Health and Research, Agriculture and Land, Government of Prince Edward Island
-    company_url: 'https://www.princeedwardisland.ca/en/topic/agriculture-and-land'
+    company_url: 'https://www.princeedwardisland.ca/en/employee/elsohaby-ibrahim'
     company_logo: 
     location: PEI / Canada
     date_start: '2019-02-25'

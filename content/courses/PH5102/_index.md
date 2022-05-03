@@ -1,8 +1,8 @@
 ---
-date: "2022-03-15"
+date: "2022-09-05"
 linkTitle: "Overview"
 summary: Master of Science in Public Health and Epidemiology.
-title: "\U0001F4CA MA 5617: Statistical Data Analysis"
+title: "\U0001F4CA PH5102: Introduction to Biostatistics in One Health"
 type: book
 ---
 
